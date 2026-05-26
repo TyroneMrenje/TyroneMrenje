@@ -8,7 +8,7 @@ I like to build projects that may solve problems specific to my location whether
 
 Though my foundation is in programming, I also create supervised models for research.
 
-I am open to volunteer for awesome community projects and projects
+I am open to volunteer for awesome community projects and causes.
 
 # 💻 Tech Stack
 <div align="center">
